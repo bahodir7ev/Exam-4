@@ -37,3 +37,18 @@
 // console.log(randomChipta);
 // console.log(birinchiUchlik);
 // console.log(ikkinchiUchlik);
+
+// 3-masala
+
+// function raqamlarYigindisi(N) {
+  
+//     let strN = String(N);
+//     let sum = 0;
+//     for (let i = 0; i < strN.length; i++) {
+//         sum += parseInt(strN[i]);
+//     }
+    
+//     console.log(sum);
+// }
+
+// raqamlarYigindisi(1234);
